@@ -4,7 +4,9 @@ Esse repositório documenta meus estudos na jornada Ignite.
 
 ## Conteúdo
 
-### ReactJS
+## ReactJS
+
+### Capítulo I
 
 - [ ] Configurando Ambiente
 - [ ] Conceitos Importantes
