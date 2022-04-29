@@ -8,7 +8,7 @@ Esse repositório documenta meus estudos na jornada Ignite.
 
 ### Capítulo I
 
-- [ ] Configurando Ambiente
+- [x] Configurando Ambiente
 - [ ] Conceitos Importantes
 - [ ] Chamadas HTTP
 - [ ] Usando TypeScript
