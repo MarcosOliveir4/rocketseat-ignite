@@ -13,3 +13,16 @@ Esse repositório documenta meus estudos na jornada Ignite.
 - [x] Chamadas HTTP
 - [x] Usando TypeScript
 - [x] Finalizando Aplicação
+
+### Desafios
+
+- [x] Desafio: Conceitos do React
+- [ ] Desafio: Componentizando a aplicação
+
+### Capítulo II
+
+- [ ] Estrutura da aplicação
+- [ ] Componentização
+- [ ] Consumindo API
+- [ ] Modal & Forms
+- [ ] Contextos e hooks
