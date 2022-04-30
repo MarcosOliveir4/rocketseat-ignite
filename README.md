@@ -10,6 +10,6 @@ Esse repositório documenta meus estudos na jornada Ignite.
 
 - [x] Configurando Ambiente
 - [x] Conceitos Importantes
-- [ ] Chamadas HTTP
+- [x] Chamadas HTTP
 - [ ] Usando TypeScript
 - [ ] Finalizando Aplicação
