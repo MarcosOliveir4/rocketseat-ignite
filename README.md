@@ -22,7 +22,7 @@ Esse repositório documenta meus estudos na jornada Ignite.
 ### Capítulo II
 
 - [x] Estrutura da aplicação
-- [ ] Componentização
+- [x] Componentização
 - [ ] Consumindo API
 - [ ] Modal & Forms
 - [ ] Contextos e hooks
