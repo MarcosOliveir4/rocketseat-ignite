@@ -17,7 +17,7 @@ Esse repositório documenta meus estudos na jornada Ignite.
 ### Desafios
 
 - [x] Desafio: Conceitos do React
-- [ ] Desafio: Componentizando a aplicação
+- [x] Desafio: Componentizando a aplicação
 
 ### Capítulo II
 
